@@ -1,3 +1,3 @@
 service : {
-  gree: (text) -> (text);
+  greet: (text) -> (text);
 }
